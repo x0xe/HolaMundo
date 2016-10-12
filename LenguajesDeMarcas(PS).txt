@@ -1,0 +1,6 @@
+%!PS
+/Arial                       
+12 selectfont           
+200 100 moveto      
+200 300 lineto        
+showpage               
