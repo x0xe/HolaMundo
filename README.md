@@ -12,4 +12,4 @@ Me llamo Jose Manuel, tengo 28 años y vivo en Mallorca. Estudio un CFGS a dista
 [LenguajesDeMarcas(rtf).txt](https://github.com/x0xe/HolaMundo/files/525186/LenguajesDeMarcas.rtf.txt) se descarga el archivo *.txt* con el código en *rtf*. Al abrirlo con un editor de texto se puede leer " prueba rtf para *lenguajes de marcas* ". Al pasar el contenido de este archivo a un documento de texto plano nuevo, guardar dicho documento con extensión *.rtf*, tal y como se indica en los apartados del ejercicico **A)**, se puede ver como *OpenOffice* abre el archivo *.rtf* y muestra el mensaje correctamente.
 + **Contenido en *xml*:** Clicando en 
 [LenguajesDeMarcas(xml).txt](https://github.com/x0xe/HolaMundo/files/525188/LenguajesDeMarcas.xml.txt)
-se decarga el archivo *.txt* con el código en *xml*. Para comprobar su funcionalidad he accedido a la web ***<https://www.xmlvalidation.com/>***. Al ejecutarlo podemos observar como nos crea correctamente el árbol.
+se decarga el archivo *.txt* con el código en *xml*. Para comprobar su funcionalidad he accedido a la web ***<https://www.xmlvalidation.com/>***. Al ejecutarlo podemos observar como nos crea correctamente el árbol. 
