@@ -1,7 +1,7 @@
 # HolaMundo 
 Me llamo Jose Manuel, tengo 28 años y vivo en Mallorca. Estudio un CFGS a distancia y este repositorio es para la asignatura de Lenguajes de Marcas.
 
-## A continuación la lista de archivos en formato de texto plano:
+#### A continuación la lista de archivos en formato de texto plano:
 + **Contenido en *CSS*:** Clicando en el enlace 
 [LenguajesDeMarcas(CSS).txt](https://github.com/x0xe/HolaMundo/files/525179/LenguajesDeMarcas.CSS.txt) se descarga el archivo *.txt* con el código en *CSS*. Al abrirlo con un editor de texto se puede ver un fondo azul oscuro con letras blancas, centradas y el texto " Ejemplo CSS para lenguajes de marcas "
 + **Contenido en *html*:** Clicando en 
