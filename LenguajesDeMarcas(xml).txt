@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lenguajes> 
+<alumno>Jose Manuel</alumno> 
+<tema>tema1</tema> 
+<asunto>Prueba xml</asunto> 
+<p>Esto es una prueba de xml</p> 
+</Lenguajes>
