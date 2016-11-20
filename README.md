@@ -1,15 +1,14 @@
 # HolaMundo 
 Me llamo Jose Manuel, tengo 28 años y vivo en Mallorca. Estudio un CFGS a distancia y este repositorio es para la asignatura de Lenguajes de Marcas.
 
-#### A continuación la lista de archivos en formato de texto plano:
-+ **Contenido en *CSS*:** Clicando en el enlace 
-[LenguajesDeMarcas(CSS).txt](https://github.com/x0xe/HolaMundo/files/525179/LenguajesDeMarcas.CSS.txt) se descarga el archivo *.txt* con el código en *CSS*. Al abrirlo con un editor de texto se puede ver un fondo azul oscuro con letras blancas, centradas y el texto " Ejemplo CSS para lenguajes de marcas "
-+ **Contenido en *html*:** Clicando en 
-[LenguajesDeMarcas(html).txt](https://github.com/x0xe/HolaMundo/files/525182/LenguajesDeMarcas.html.txt) se descarga el archivo *.txt* con el código en *html*. Al abrirlo con un editor de texto se puede ver la cabecera "LenguajesdeMarca tema1" y el cuerpo "Prueba html de lenguajes de marcas"
-+ **Contenido en *PS*:** Clicando en 
-[LenguajesDeMarcas(PS).txt](https://github.com/x0xe/HolaMundo/files/525184/LenguajesDeMarcas.PS.txt) se descarga el archivo *.txt* con el código en *PS*. Al abrirlo se lee el código que nos permitiría dibujar al imprimir una linea recta desde 200,100 hasta 200,300. 
-+ **Contenido en *rtf*:** Clicando en
-[LenguajesDeMarcas(rtf).txt](https://github.com/x0xe/HolaMundo/files/525186/LenguajesDeMarcas.rtf.txt) se descarga el archivo *.txt* con el código en *rtf*. Al abrirlo con un editor de texto se puede leer " prueba rtf para *lenguajes de marcas* ". Al pasar el contenido de este archivo a un documento de texto plano nuevo, guardar dicho documento con extensión *.rtf*, tal y como se indica en los apartados del ejercicico **A)**, se puede ver como *OpenOffice* abre el archivo *.rtf* y muestra el mensaje correctamente.
-+ **Contenido en *xml*:** Clicando en 
-[LenguajesDeMarcas(xml).txt](https://github.com/x0xe/HolaMundo/files/525188/LenguajesDeMarcas.xml.txt)
-se decarga el archivo *.txt* con el código en *xml*. Para comprobar su funcionalidad he accedido a la web ***<https://www.xmlvalidation.com/>***. Al ejecutarlo podemos observar como nos crea correctamente el árbol. 
+#### A continuación la explicación de mi proyecto lunar landing:
+**Archivos .html** Hay 4 archivos ".html" que son: 
+1. El archivo "tarea.html", el archivo principal, es la tarea que se requiere consta de una tabla con los valores de velocidad, altura y nivel de fuel; una lista con acceso a los distintos ".html"; las imágenes del background, la luna y la nave.
+2. El archivo "about.html" que básicamente lo que hace es dar mi nombre y apellidos y algún dato del proyecto.
+3. El archivo "how.html" nos dirá como se procede para que la nave aterrice aunque como aun no sé exactamente como se va a hacer no he podido dar muchas explicaciones. 
+4. El archivo "pausa.html" nos abre un archivo igual que el principal pero en un futuro dejara la nave pausada.
+Desde el archivo *tarea.html* se puede acceder a los archivos *pausa.html*, *how.html* y *about.html*.
+Desde los archivos *how.html* y *about.html* se puede volver a *tarea.html* y también se puede ir de *how.html* a *about.html* y viceversa.
+Por último desde el archivo *pausa.html* se puede reanudar ( volver a *tarea.html*) y también acceder a *how.html* y *about.html*.
+**Archivo .css** El archivo "estilos.css" contenido en la carpeta "css/" contiene los estilos utilizados para implementar el proyecto.
+**Imágenes** La carpeta "img/" contiene las imágenes de la luna (*luna.png*), la nave(*nave.png*) y el background(*sky.png*). Todas las imágenes han sido creadas por mi con el programa "paint2" para MacOs, contienen una marca de agua de dicho programa.
