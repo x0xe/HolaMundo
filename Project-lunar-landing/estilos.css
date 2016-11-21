@@ -1,0 +1,43 @@
+
+#luna{ width:100vw; position:absolute; bottom:0px; left:0px;}
+#nave{position: absolute; width: 70vw; margin-left: 15vw; bottom:0px;left:0px;}
+#sky{width:100vw;position: absolute;top:0px;left:0px;z-index: 0;}
+#tabla{position: absolute;z-index: 2;}
+#panel{z-index: 2;position: absolute; padding: 0; right:20px;float: right; margin:0 0 10px 10px;}
+body{overflow: hidden; background-image:url(../img/sky.png);}
+ul {
+list-style-type: none;
+margin: 0 0 10px 10px;
+padding: 0;
+overflow: hidden;
+background-color: darkblue;
+max-width: auto;
+float: right;
+}
+
+li {
+
+float: right;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 2vh;
+text-decoration: none;
+
+}
+
+li a:hover:not(.active) {
+background-color: lightgrey;
+}
+
+.active {
+background-color: lightblue;
+}
+table {background-color: darkblue;margin:0;padding:0;overflow: hidden; float: left;}
+th{color: white; text-align: left;}
+td{color: white;}
+#texto{color: white;font-size: 22px; position: absolute;z-index: 2;top: 10vh;}
+#parrafo{color: lightyellow;}
