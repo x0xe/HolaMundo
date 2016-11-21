@@ -10,5 +10,5 @@ Me llamo Jose Manuel, tengo 28 años y vivo en Mallorca. Estudio un CFGS a dista
  * El archivo "pausa.html" nos abre un archivo igual que el principal pero en un futuro dejara la nave pausada.
 
 
-* __Archivo .css__ El archivo "estilos.css" contenido en la carpeta "css/" contiene los estilos utilizados para implementar el proyecto.
-* __Imágenes__ La carpeta "img/" contiene las imágenes de la luna (_luna.png_), la nave(_nave.png_) y el background(_sky.png_). Todas las imágenes han sido creadas por mi con el programa "paint2" para MacOs, contienen una marca de agua de dicho programa.
+* __Archivo .css__ El archivo "estilos.css" contenido en la carpeta "/css/" contiene los estilos utilizados para implementar el proyecto.
+* __Imágenes__ La carpeta "/img/" contiene las imágenes de la luna (_luna.png_), la nave(_nave.png_) y el background(_sky.png_). Todas las imágenes han sido creadas por mi con el programa "paint2" para MacOs, contienen una marca de agua de dicho programa.
