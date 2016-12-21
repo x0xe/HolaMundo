@@ -1,0 +1,13 @@
+body,html{height:100%;padding:0px;margin:0px}
+.c{display:block !important}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;background-image:url("../img/sky.png")}
+.a,.c{background-color: white;}
+.d{height:20%;*/width:100%;position:fixed;bottom:0px;left:0px}
+#nave{text-align:center;position:fixed;top:10%;width:100%;height:20%}
+#nave img{height:100%}
+#luna{text-align:bottom;position:fixed;bottom:0%}
+#luna img{width:100%;height:100%;}
+#cpanel{background-color:lightblue}
+#hidem,#showm{display:none}
+#menu{background-color:lightblue }
+#parrafo{font-family: arial;font-size: 12px;}
