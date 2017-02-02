@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preguntes SYSTEM "preguntes.dtd">
+<preguntes>
+<pregunta id='preg1'>
+<tipo>texto</tipo>
+<texto>Como se llama esta asignatura?</texto>
+<respuesta>Lenguaje de Marcas y Sistemas de Gestión de la Información</respuesta>
+</pregunta>
+
+<pregunta id='preg2'>
+<tipo>select</tipo>
+<texto>Cuántos archivos tiene esta entrega?</texto>
+<opción>2</opción>
+<opción>1</opción>
+<opción>3</opción>
+<respuesta>1</respuesta>
+</pregunta>
+
+<pregunta id='preg3'>
+<tipo>select</tipo>
+<texto>Es posible abrir un fichero .html en Google chrome?</texto>
+<opción>No</opción>
+<opción>Si</opción> 
+<respuesta>1</respuesta> 
+</pregunta>
+
+<pregunta id='preg4'>
+<tipo>texto</tipo>
+<texto>Cómo se llama la web dónde colgamos las tareas?</texto>
+<respuesta> www.GitHub.com </respuesta>
+</pregunta>
+
+<pregunta id='preg5'>
+<tipo>radio</tipo>
+<texto> Cúanto son 2+2? </texto>
+<opción> 4 </opción>
+<opción> 3 </opción>
+<respuesta> 0 </respuesta>
+</pregunta>
+
+</preguntes>
+
