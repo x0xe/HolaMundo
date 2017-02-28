@@ -1,0 +1,8 @@
+html{background-color:lightyellow;}
+h4{color:grey;font-style: italic;}
+#resultadosDiv{background-color:lightgreen;}
+h2{color:darkblue;}
+h5{text-align: right;}
+#logo{float:right;max-height: 10%;padding-left: 5%;padding-right: 5%;position: relative;}
+#menu{float:right;}
+.reloj{text-align:left;font-family: verdana;color:darkblue;z-index: 0;background-color: lightpink;}
