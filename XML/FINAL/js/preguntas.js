@@ -272,7 +272,7 @@ respuestasCheckbox[checkNum]=[];
   document.getElementById("textCheckbox"+checkNum).innerHTML = dat.text;
  for (v = 0; v < dat.options.length; v++) { 
     var input = document.createElement("input");
-    var labelC = document.createElement("label");
+    var labelC = document.createElement("labelC");
     labelC.innerHTML=dat.options[v];
     labelC.setAttribute("for", "color_"+v);
     input.setAttribute("class","check"+checkNum);
@@ -294,7 +294,7 @@ function rellenarRadio(dat){
   var radioDiv=document.getElementById("radioDiv"+radioNum);
  for (v = 0; v < dat.options.length; v++) { 
     var input = document.createElement("input");
-    var labelR = document.createElement("label");
+    var labelR = document.createElement("labelR");
     input.setAttribute("class","radioB"+radioNum);
     labelR.innerHTML=dat.options[v];
     labelR.setAttribute("for", "color_"+v);
