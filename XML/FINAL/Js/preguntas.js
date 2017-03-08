@@ -272,15 +272,15 @@ respuestasCheckbox[checkNum]=[];
   document.getElementById("textCheckbox"+checkNum).innerHTML = dat.text;
  for (v = 0; v < dat.options.length; v++) { 
     var input = document.createElement("input");
-    var label = document.createElement("label");
-    label.innerHTML=dat.options[v];
-    label.setAttribute("for", "color_"+v);
+    var labelC = document.createElement("label");
+    labelC.innerHTML=dat.options[v];
+    labelC.setAttribute("for", "color_"+v);
     input.setAttribute("class","check"+checkNum);
     input.type="checkbox";
     input.name="color";
     input.id="color_"+v;    
     checkboxContainer.appendChild(input);
-    checkboxContainer.appendChild(label);
+    checkboxContainer.appendChild(labelC);
  }  
  for(w=0;w<dat.answers.length;w++){
   respuestasCheckbox[checkNum][w]=dat.answers[w];
@@ -294,15 +294,15 @@ function rellenarRadio(dat){
   var radioDiv=document.getElementById("radioDiv"+radioNum);
  for (v = 0; v < dat.options.length; v++) { 
     var input = document.createElement("input");
-    var label = document.createElement("label");
+    var labelR = document.createElement("label");
     input.setAttribute("class","radioB"+radioNum);
-    label.innerHTML=dat.options[v];
-    label.setAttribute("for", "color_"+v);
+    labelR.innerHTML=dat.options[v];
+    labelR.setAttribute("for", "color_"+v);
     input.type="radio";
     input.name="color"+radioNum;
     input.id="color_"+v;    
     radioDiv.appendChild(input);
-    radioDiv.appendChild(label);
+    radioDiv.appendChild(labelR);
  }  
   respuestasRadio[radioNum]=parseInt(dat.answers);
 
